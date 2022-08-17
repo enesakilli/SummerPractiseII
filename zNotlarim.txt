@@ -1,0 +1,7 @@
+Merhaba, Main ve Login_Registration kısmını birbirine bağlayamadım, register olup login yaptıktan sonra direkt kütüphane uygulamasına geçmesini istedim fakat yapamadım maalesef.
+O yüzden Main ve Login_Registration kısmınlarını ayrı ayrı çalıştırmak gerekiyor. Maini çalıştırırsak kütüphane uygulaması, Login_Registration u çalıştırırsak giriş yap ve kayıt ol ekranı geliyor.
+Genel olarak istenilen kitap ekleme, silme, ödünç alma ve geri verme kısmı güzel çalışıyor. Kitapları Scientific, Novel ve Language kitapları olarak ayırdım ve her birine default olarak 2 şer kitap ekledim. 
+Mesela Novel'i seçip kitap eklersem kitap sayısı 3 e çıkıyor veya silersem 1 e düşüyor. Ödünç alırsam 1 e düşüyor, geri verirsem 1 artıyor. Kitap ödünç almadan kitap geri verilmiyor sistem uyarı veriyor. 
+Login Registration kısmı da çalışıyor üye durumunun aktiflik/pasiflik kısımlarını da yapamadım, tam olarak istenilen gibi olmadı maalesef sadece kayıt olup giriş yapıyoruz. 
+Ana dosyadaki Registration.txt sinin içi boşsa register yapıp bilgileri girdikten sonra login yapabiliyoruz. Yeni bir kullanıcı olarak register olmak istersek txt'nin içi boş olması gerekiyor.
+Boş değilse register olduğumuz kullanıcı adı ve parola ile giriş yapabiliyoruz.
